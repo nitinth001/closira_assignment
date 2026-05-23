@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Closira AI Assignment
 
 AI-powered customer support workflow built for the Closira AI Engineering Internship Assignment.
