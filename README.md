@@ -36,21 +36,32 @@ closira-assignment/
 
 ---
 
-## Features
+# Features
 - SOP-based FAQ answering
 - Lead qualification workflow
 - Escalation detection
 - Conversation summary generation
 - Hallucination prevention
 
-## Tech Stack
+# Tech Stack
 - Python
 - OpenAI/Groq API
 - JSON
 
-## How to Run
+# How to Run
 pip install -r requirements.txt
 python app.py
+
+# Model Used
+
+This project uses DeepSeek Chat via OpenRouter API for cost-efficient inference.
+
+# Safety Features
+
+- SOP-grounded responses
+- Escalation for unknown queries
+- Sentiment-based escalation detection
+- No hallucinated responses
 
 # Setup Instructions:
 
@@ -117,6 +128,6 @@ Limited to provided SOP data
 # Demo Screenshot
 
 ![Project Output](screenshots/project_output.png)
-=======
+
 # closira-assignment
 >>>>>>> 19b69779821c44ddb8bc41e9c178028555a0d8cd
