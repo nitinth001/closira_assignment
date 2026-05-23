@@ -129,5 +129,3 @@ Limited to provided SOP data
 
 ![Project Output](screenshots/project_output.png)
 
-# closira-assignment
->>>>>>> 19b69779821c44ddb8bc41e9c178028555a0d8cd
